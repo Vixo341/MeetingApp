@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zi2F6fO4d3knltroVT+K9XC5sB+kCb52ZfKHUekRPXXUFgOoq+h9Gei96Hd0AHGM8W1dfPFolOquaFmt2W1Emw==",
+  "dgSpecHash": "oId7EuJEG2WjuVcplSS0T23A7uhOtzv2WqozxNkwMUnvFI8XW/fenzmHYVBI2/tb0Nh1BxS+7v8qb8uUyiPi2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mypc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mypc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

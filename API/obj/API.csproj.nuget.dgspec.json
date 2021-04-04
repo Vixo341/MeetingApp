@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\API.csproj": {}
+    "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\API.csproj": {
+    "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\mypc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\mypc\\Documents\\Project\\MeetingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
